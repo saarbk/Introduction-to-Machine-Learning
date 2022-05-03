@@ -1,6 +1,6 @@
 # Introduction-to-Machine-Learning
 Sharing both theoretical and programing ideas I came across at Introduction to Machine Learning course.
-Any section including the relevente PDF soultions, ![equation](https://latex.codecogs.com/svg.image?%5Cinline%20%5Ctext%7B%5CLaTeX%7D) soultions   and py files
+Any section including the relevant  PDF soultions, ![equation](https://latex.codecogs.com/svg.image?%5Cinline%20%5Ctext%7B%5CLaTeX%7D) soultions   and py files
 
 ## ![equation](https://latex.codecogs.com/svg.image?%5Cinline%20%5CLARGE%20%5Ctextbf%7BSection%201%7D)
 (Warm-up)
