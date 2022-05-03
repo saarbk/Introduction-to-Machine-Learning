@@ -1,0 +1,285 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.6)  3 MAY 2022 21:38
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**./section_1.tex
+(section_1.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/tree-dvips\lingmac
+ros.sty
+\c@enums=\count191
+\widelabel=\dimen139
+\c@tempcnt=\count192
+\c@enumsi=\count193
+\eeindent=\dimen140
+)
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/tree-dvips\tree-dv
+ips.sty
+tree-dvips version .91 of May 16, 1995
+\nodemargin=\dimen141
+\treelinewidth=\dimen142
+\dashlength=\dimen143
+\arrowwidth=\dimen144
+\arrowlength=\dimen145
+\arrowinset=\dimen146
+\pos@t=\toks16
+\pos@b=\toks17
+\pos@l=\toks18
+\pos@r=\toks19
+\pos@tl=\toks20
+\pos@tr=\toks21
+\pos@bl=\toks22
+\pos@br=\toks23
+\@arrow=\count194
+\@tempdimc=\dimen147
+)
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.
+sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.st
+y
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.
+sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graph
+ics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdfte
+x.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
+d-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box50
+)
+(C:/Users\saar barak\Desktop\Introduction-to-Machine-Learning-main\out\section_
+1.aux)
+\openout1 = `section_1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-p
+df.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen150
+\scratchbox=\box51
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen151
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks26
+)
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\saar barak\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-
+sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+[1
+
+
+Non-PDF special ignored!
+<special> header=tree-dvips91.pro
+{C:/Users/saar barak/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+LaTeX Warning: File `beta.png' not found on input line 51.
+
+
+section_1.tex:51: Package pdftex.def Error: File `beta.png' not found: using dr
+aft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \includegraphics[scale=0.4]{beta.png}
+                                          
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+
+ []
+
+
+Overfull \hbox (59.83607pt too wide) detected at line 62
+[] []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 X \OT1/cmr/m/n/12 = []) [](\OML/cmm/m/it
+/12 Y \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 k\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 X 
+\OT1/cmr/m/n/12 = [])\OMS/cmsy/m/n/12 4\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 k; f\O
+T1/cmr/m/n/12 (\OML/cmm/m/it/12 k\OT1/cmr/m/n/12 )) = [](\OML/cmm/m/it/12 X \OT
+1/cmr/m/n/12 = []) [] [](\OML/cmm/m/it/12 y \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 
+k\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 X \OT1/cmr/m/n/12 = [])\OMS/cmsy/m/n/12 4\O
+T1/cmr/m/n/12 (\OML/cmm/m/it/12 k; f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 k\OT1/cmr
+/m/n/12 ))
+ []
+
+
+Overfull \hbox (9.26793pt too wide) detected at line 64
+\OML/cmm/m/it/12 L\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 h\OT1/cmr/m/n/12 ) = \OML/c
+mm/m/it/12 Arg []\OMS/cmsy/m/n/12 f[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x \OT1/c
+mr/m/n/12 = []) [] [](\OML/cmm/m/it/12 y \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 k\O
+MS/cmsy/m/n/12 j\OML/cmm/m/it/12 X \OT1/cmr/m/n/12 = [])\OMS/cmsy/m/n/12 g \OT1
+/cmr/m/n/12 = \OML/cmm/m/it/12 f\OT1/cmr/m/n/12 ([]) = \OML/cmm/m/it/12 h\OT1/c
+mr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 k
+ []
+
+[3]
+
+LaTeX Warning: File `myplot.png' not found on input line 115.
+
+
+section_1.tex:115: Package pdftex.def Error: File `myplot.png' not found: using
+ draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115 \includegraphics[scale=0.6]{myplot.png}
+                                             
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[4]
+
+LaTeX Warning: File `myplot2.png' not found on input line 122.
+
+
+section_1.tex:122: Package pdftex.def Error: File `myplot2.png' not found: usin
+g draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 \includegraphics[scale=0.55]{myplot2.png}
+                                               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<plot 3.JPG, id=26, 742.57425pt x 530.58224pt>
+File: plot 3.JPG Graphic file (type jpg)
+<use plot 3.JPG>
+Package pdftex.def Info: plot 3.JPG  used on input line 123.
+(pdftex.def)             Requested size: 319.3007pt x 228.14592pt.
+[5 <./plot 3.JPG>]
+(C:/Users\saar barak\Desktop\Introduction-to-Machine-Learning-main\out\section_
+1.aux) ) 
+Here is how much of TeX's memory you used:
+ 1540 strings out of 478659
+ 26471 string characters out of 2843515
+ 329762 words of memory out of 3000000
+ 19656 multiletter control sequences out of 15000+600000
+ 408811 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,13n,62p,408b,210s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/saar barak/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-s
+uper/cm-super-ts1.enc}<C:/Users/saar barak/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/saar barak/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/saar barak/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/saar b
+arak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C
+:/Users/saar barak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmmi6.pfb><C:/Users/saar barak/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmmi8.pfb><C:/Users/saar barak/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/saar barak/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/saar barak/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/saar b
+arak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:
+/Users/saar barak/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmtt12.pfb><C:/Users/saar barak/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/cm-super/sfrm1200.pfb>
+Output written on "C:/Users\saar barak\Desktop\Introduction-to-Machine-Learning
+-main\out\section_1.pdf" (5 pages, 195906 bytes).
+PDF statistics:
+ 80 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
