@@ -8,8 +8,11 @@ Any section including the relevant  PDF soultions, ![equation](https://latex.cod
 ![equation](https://latex.codecogs.com/svg.image?\textbf{Theory&space;Part}&space;)
 \
   [1.1](Section1.0/section_1.pdf) Linear Algebra
+  \
   [1.2](Section1.0/section_1.pdf) Calculus and Probability
+  \
   [1.3](Section1.0/section_1.pdf) Optimal Classifiers and Decision Rules
+  \
   [1.4](Section1.0/section_1.pdf)  Multivariate normal (or Gaussian) distribution
   
   
@@ -22,9 +25,13 @@ Any section including the relevant  PDF soultions, ![equation](https://latex.cod
 ![equation](https://latex.codecogs.com/svg.image?\textbf{Theory&space;Part}&space;)
 \
 [2.1](Section2.0/Section2.pdf) PAC learnability of ℓ2-balls around the origin
+\
 [2.2](Section2.0/Section2.pdf) PAC in Expectation
+\
 [2.3](Section2.0/Section2.pdf) Union Of Intervals 
+\
 [2.4](Section2.0/Section2.pdf) Prediction by polynomials
+\
 [2.5](Section2.0/Section2.pdf) Structural Risk Minimization
 
 ![equation](https://latex.codecogs.com/svg.image?\textbf{Programming&space;Part}&space;)
@@ -41,8 +48,11 @@ define the corresponding hypothesis as
 ![equation](https://latex.codecogs.com/svg.image?\textbf{Theory&space;Part}&space;)
 \
 [3.1](Section3.0/section3.pdf) Step-size Perceptron
+\
 [3.2](Section3.0/section3.pdf) Convex functions
+\
 [3.3](Section3.0/section3.pdf) GD with projection
+\
 [3.4](Section3.0/section3.pdf) Gradient Descent on Smooth Functions
 
 ![equation](https://latex.codecogs.com/svg.image?\textbf{Programming&space;Part}&space;)
@@ -64,9 +74,13 @@ as follows:
 ![equation](https://latex.codecogs.com/svg.image?\textbf{Theory&space;Part}&space;)
 \
 [4.1](Section4.0/section_4.pdf) SVM with multiple classes
+\
 [4.2](Section4.0/section_4.pdf) Soft-SVM bound using hard-SVM
+\
 [4.3](Section4.0/section_4.pdf) Separability using polynomial kernel
+\
 [4.4](Section4.0/section_4.pdf) Expressivity of ReLU networks
+\
 [4.5](Section4.0/section_4.pdf) Implementing boolean functions using ReLU networks. 
 
 ![equation](https://latex.codecogs.com/svg.image?\textbf{Programming&space;Part}&space;)
