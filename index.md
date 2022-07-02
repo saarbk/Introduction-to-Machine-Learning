@@ -1,11 +1,6 @@
 
 ### Introduction to Machine Learning
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-Sharing notebook and theoretical ideas I came across at Introduction to Machine Learning course.
-Any section including the relevant  PDF soultions, ![equation](https://latex.codecogs.com/svg.image?\text{\TeX})   and py files
 
 ## ![equation](https://latex.codecogs.com/svg.image?%5Cinline%20%5CLARGE%20%5Ctextbf%7BSection%201%7D)
 (Warm-up)
