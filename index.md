@@ -98,6 +98,6 @@ Define the log-loss on a single example
 
 ![equation](https://latex.codecogs.com/svg.image?%5Cinline%20%5Cell_%7B(%5Cmathbf%7Bx,y%7D)%7D(W)=-%5Cmathbf%7By%7D%5Clog%5Cmathbf%7Bz%7D_L(%5Cmathbf%7Bx;%5Cmathcal%7BW%7D%7D))
 
-And the loss we want to minimize is
+And the loss we want to minimize is:
 
 ![equation](https://latex.codecogs.com/svg.image?%5Cinline%20%5Cell(%5Cmathcal%7BW%7D)=%5Cfrac%7B1%7D%7Bn%7D%5Csum_%7Bi=1%7D%5E%7Bn%7D%5Cell%20(%5Cmathbf%7Bx%7D_i,%5Cmathbf%7By%7D_i)(%5Cmathcal%7BW%7D)=%5Cfrac%7B1%7D%7Bn%7D%5Csum_%7Bi=1%7D%5E%7Bn%7D-%5Cmathbf%7By%7D_i%5Cast%20%5Clog%20%5Cmathbf%7Bz%7D_L(%5Cmathbf%7Bx%7D_i;%5Cmathcal%7BW%7D))
