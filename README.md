@@ -1,8 +1,8 @@
 [![Display](https://img.shields.io/badge/Display-Website-blue.svg)](https://saarbk.github.io/iml)
 
 # Introduction-to-Machine-Learning
-Sharing notebook and theoretical ideas I came across at Introduction to Machine Learning course.
-Any section including the relevant  PDF soultions, ![equation](https://latex.codecogs.com/svg.image?\text{\TeX})   and py files
+Repository of notebooks and conceptual insights from my "Introduction to Machine Learning" course. Each section contains corresponding PDF solutions,  ![equation](https://latex.codecogs.com/svg.image?\text{\TeX}), and Python scripts.
+
 
 ## ![equation](https://latex.codecogs.com/svg.image?%5Cinline%20%5CLARGE%20%5Ctextbf%7BSection%201%7D)
 (Warm-up)
